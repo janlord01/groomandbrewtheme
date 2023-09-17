@@ -1,0 +1,21 @@
+{
+  "name": "groom-and-brew-theme",
+  "displayName": "Groom and Brew Theme",
+  "description": "Groom and Brew theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Groom & Brew Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Groom & Brew Theme-color-theme.json"
+      }
+    ]
+  }
+}
